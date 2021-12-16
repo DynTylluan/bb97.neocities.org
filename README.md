@@ -1,6 +1,6 @@
 # Dump of The web site of bb97 (bb97.neocities.org)
 
-As only being worked on in 2019, [bb97](https://neocities.org/site/bb97) was the website of a person called Evergreen (evergreen#8105 on Discord). The website itself is rather small, being made up of only five web pages (of them being a 404 page).
+As only being worked on in 2019, [bb97](https://neocities.org/site/bb97) was the website of a person called Evergreen (evergreen#8105 on Discord). The website itself is rather small, being made up of only five web pages (one of them being a 404 page).
 
 In regards to the website itself, I doubt it will ever be updated, as Evergreen has stopped being active online and as far as I am aware, was only a sockpuppet account as a way to gain trust with others people on Neocities.
 
